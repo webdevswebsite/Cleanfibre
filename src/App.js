@@ -1,6 +1,6 @@
 import React from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
-import HomeOne from './components/HomeOne';
+// import HomeOne from './components/HomeOne';
 import HomeTwo from './components/HomeTwo';
 import HomeThree from './components/HomeThree';
 import AOS from 'aos';
